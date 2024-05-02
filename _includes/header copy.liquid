@@ -2,16 +2,28 @@
   <!-- Nav Bar -->
   <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}" role="navigation">
     <div class="container">
-      <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
-        {% if site.title == 'blank' %}
-          <span class="font-weight-bold" style="color:var(--global-theme-color); font-size:1em">Y</span><span class="font-weight-bold" style="color:var(--global-theme-color); font-size:.87em">ANG</span>
-          <span class="font-weight-bold" style="color:var(--global-theme-color); font-size:1em">L</span><span class="font-weight-bold" style="color:var(--global-theme-color); font-size:.87em">ONG</span>
-          <span class="font-weight-bold" style="color:var(--global-theme-color)"> (龙洋)</span>
-        {% else %}
-          {{- site.title -}}
-        {% endif %}
-      </a>
-
+      {% if page.permalink != '/' %}
+        <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
+          {% if site.title == 'blank' %}
+            {% if site.first_name %}
+              <span class="font-weight-bold">
+                {{- site.first_name -}}
+              </span>
+            {% endif %}
+            {% if site.middle_name %}
+              {{- site.middle_name -}}
+            {% endif %}
+            {% if site.last_name %}
+              {{- site.last_name -}}
+            {% endif %}
+          {% else %}
+            {{- site.title -}}
+          {% endif %}
+        </a>
+      {% elsif site.enable_navbar_social %}
+        <!-- Social Icons -->
+        <div class="navbar-brand social">{% include social.liquid %}</div>
+      {% endif %}
       <!-- Navbar Toggle -->
       <button
         class="navbar-toggler collapsed ml-auto"
@@ -30,7 +42,6 @@
 
       <div class="collapse navbar-collapse text-right" id="navbarNav">
         <ul class="navbar-nav ml-auto flex-nowrap">
-          
           {% for page in site.pages %}
             {% if page.permalink == '/' %} {% assign about_title = page.title %} {% endif %}
           {% endfor %}
@@ -92,10 +103,7 @@
                       <span class="sr-only">(current)</span>
                     {% endif %}
                   </a>
-                </li> 
-          <li class="nav-item ">
-            <a class="nav-link" target="_blank" href="/assets/pdf/resume_YL.pdf">cv</a>
-          </li>
+                </li>
               {% endif %}
             {% endif %}
           {% endfor %}

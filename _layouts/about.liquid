@@ -5,38 +5,23 @@ layout: default
   <header class="post-header">
     <h1 class="post-title">
       {% if site.title == 'blank' %}
-        <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
-        {{ site.last_name }}
+        <span class="font-weight-bold" style="color:var(--global-theme-color)"> {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}</span> 
+        
       {% else %}
         {{ site.title }}
       {% endif %}
     </h1>
-    <p class="desc">{{ page.subtitle }}</p>
+    <p class="desc"><span class="font-weight-bold" style="color:var(--global-text-color)">Statistics PhD Candidate</span> <span class="font-weight-bold"> @ </span> <span class="font-weight-bold" style="color:var(--global-text-color)">George Mason University</span></p>
   </header>
 
+  <div style="height:12px;font-size:1px;">&nbsp;</div>
+
   <article>
-    {% if page.profile %}
-      <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
-        {% if page.profile.image %}
-          {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
-          {% if page.profile.image_circular %}
-            {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
-          {% else %}
-            {% assign profile_image_class = 'img-fluid z-depth-1
-      rounded' %}
-          {% endif %}
-          {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px)
-      30vw, 95vw"{% endcapture %}
-          {%
-            include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image
-            cache_bust=true
-          %}
-        {% endif %}
-        {% if page.profile.more_info %}
-          <div class="more-info">{{ page.profile.more_info }}</div>
-        {% endif %}
-      </div>
-    {% endif %}
+    <div style="text-align: center;">
+      <img class="img-fluid z-depth-1 rounded-circle" src="assets/img/prof_pic.jpg" width="200" height="200">
+    </div>
+
+   <div style="height:20px;font-size:1px;">&nbsp;</div>
 
     <div class="clearfix">{{ content }}</div>
 
@@ -46,14 +31,6 @@ layout: default
         <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
       </h2>
       {% include news.liquid limit=true %}
-    {% endif %}
-
-    <!-- Latest posts -->
-    {% if site.latest_posts.enabled %}
-      <h2>
-        <a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>
-      </h2>
-      {% include latest_posts.liquid %}
     {% endif %}
 
     <!-- Selected papers -->
@@ -72,5 +49,20 @@ layout: default
         <div class="contact-note">{{ site.contact_note }}</div>
       </div>
     {% endif %}
+              <div class="social">
+            <div class="contact-icons">
+            <hr>
+            <a href="mailto:%79%6C%6F%6E%67%35@%67%6D%75.%65%64%75" title="email" style="margin-right: 0.6em;"><i class="fas fa-envelope"></i></a>
+            <a href="https://github.com/ylong-chn" title="GitHub" style="margin-right: 0.6em;" rel="external nofollow noopener" target="_blank"><i class="fab fa-github"></i></a>
+            <a href="https://www.linkedin.com/in/ylong5" title="LinkedIn" rel="external nofollow noopener" target="_blank"><i class="fab fa-linkedin"></i></a>
+            
+
+            </div>
+
+            <div class="contact-note">
+              
+            </div>
+            
+          </div>
   </article>
 </div>
