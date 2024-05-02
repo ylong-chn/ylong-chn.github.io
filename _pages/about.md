@@ -22,6 +22,6 @@ Before coming to GMU, I have lived in New York City for four years where I worke
 
 <!-- <p style="color:var(--global-text-color)" align="justify"> -->
 My research interests include robust statistical methods, non-/semi-parametric methods, statistical optimization, time series analysis, and functional data analysis.
-<!-- </p> --> 
+<!-- </p> -->  
 
 
