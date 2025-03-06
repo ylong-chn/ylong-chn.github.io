@@ -15,7 +15,7 @@ nav_order: 2
 <div style="height:30px;font-size:1px;">&nbsp;</div>
 
 <!-- <p class="font-weight-bold mb-2">2021</p> -->
-<li><p style="color:var(--global-text-color)"><span class="font-weight-bold" style="color:var(--global-theme-color)">Long, Y</span>, Cao, G., Kepplinger, D., and Wang, L. (2024+). <span class="font-weight-bold" style="color:var(--global-theme-color)">Robust Mean Signal Estimation and Inference for Imaging Data.</span> Under revision at <i>Statistica Sinica</i>. </p></li>
+<li><p style="color:var(--global-text-color)"><span class="font-weight-bold" style="color:var(--global-theme-color)">Long, Y</span>, Cao, G., Kepplinger, D., and Wang, L. (2024+). <span class="font-weight-bold" style="color:var(--global-theme-color)">Robust Mean Signal Estimation and Inference for Imaging Data.</span> Revision invited at <i>Statistica Sinica</i>. </p></li>
 
 <div style="height:10px;font-size:1px;">&nbsp;</div>
 
