@@ -32,11 +32,11 @@ Prior to my academic journey, I earned master's degrees in statistics from <a hr
 
 
 
-<p style="text-align: justify; text-justify: inter-word; color:var(--global-text-color); max-width: 660px; margin: auto">Welcome! I am a fifth-year PhD candidate in <a href="https://statistics.gmu.edu/" rel="external nofollow noopener" target="_blank" class="font-weight-bold">Statistics</a> at <a href="https://www2.gmu.edu/" rel="external nofollow noopener" target="_blank" class="font-weight-bold">George Mason University</a>, 
+<p style="text-align: justify; text-justify: inter-word; color:var(--global-text-color); max-width: 710px; margin: auto">Welcome! I am a final-year PhD candidate in <a href="https://statistics.gmu.edu/" rel="external nofollow noopener" target="_blank" class="font-weight-bold">Statistics</a> at <a href="https://www2.gmu.edu/" rel="external nofollow noopener" target="_blank" class="font-weight-bold">George Mason University</a>, 
 advised by <a href="https://www.dkepplinger.org/" rel="external nofollow noopener" target="_blank" class="font-weight-bold">Dr. David Kepplinger</a> and <a href="https://sites.google.com/view/lilywang/" rel="external nofollow noopener" target="_blank" class="font-weight-bold">Dr. Lily Wang</a>. 
-My dissertation research focuses on statistical methods and theory for trustworthy AI in neuroimaging and hyperspectral imaging. </p>
+My research focuses on trustworthy AI: robust, scalable statistical methods and theory for neuroimaging and multispectral/hyperspectral imaging, with valid uncertainty quantification under outliers, missingness, and surrogate-model misspecification. </p>
 
 <div style="height:12px;font-size:1px;">&nbsp;</div>
 
-<p style="text-align: justify; text-justify: inter-word; color:var(--global-text-color); max-width: 660px; margin: auto">In particular, I develop robust and scalable estimation and inference frameworks that remain reliable in the presence of outliers, measurement error, missingness, and surrogate or model misspecification, while providing uncertainty quantification through simultaneous inference for large-scale, complex-stracutred data. I also leverage generative AI to enhance inference for functional GWAS, ensuring robustness to realistic data imperfections. </p>
+<p style="text-align: justify; text-justify: inter-word; color:var(--global-text-color); max-width: 710px; margin: auto">Methodologically, I develop estimation and inference procedures that remain reliable under realistic imperfections—outliers, heavy-tailed noise, artifacts, measurement error, and missingness—while providing domain-wide uncertainty quantification, often via simultaneous confidence corridors for images and other functional targets. In related work, I explore generative models as auxiliary tools that preserve valid statistical inference. More broadly, my agenda is to build robust, scalable, and transparent statistical and AI pipelines for complex, structured imaging data. </p>
 
