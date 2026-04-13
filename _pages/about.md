@@ -38,12 +38,12 @@ advised by <a href="https://www.dkepplinger.org/" rel="external nofollow noopene
 <!-- My research focuses on trustworthy AI through robust, scalable statistical methods for neuroimaging and multispectral imaging. I develop methods for estimation and inference with complex functional and imaging data when observations are contaminated, partially missing, noisy, or generated from imperfect surrogate models. More broadly, I am interested in building data-analytic pipelines for scientific applications that are scalable, reliable, interpretable, and supported by valid uncertainty quantification.
 </p> -->
 
-<h2 style="color:var(--global-theme-color); font-weight: 900;">About Me</h2>
+<h2 style="color:var(--global-theme-color); font-weight: 800;">About Me</h2>
 
 <div style="height:10px;font-size:1px;">&nbsp;</div>
 
 <p style="color:var(--global-text-color); margin: auto; font-size: 1.05rem;">
-Welcome! I am a final-year PhD candidate in <a href="https://statistics.gmu.edu/" rel="external nofollow noopener" target="_blank" style="font-weight: 900;">Statistics</a> at <a href="https://www2.gmu.edu/" rel="external nofollow noopener" target="_blank" style="font-weight: 900;">George Mason University</a>, advised by <a href="https://www.dkepplinger.org/" rel="external nofollow noopener" target="_blank" style="font-weight: 900;">Dr. David Kepplinger</a> and <a href="https://sites.google.com/view/lilywang/" rel="external nofollow noopener" target="_blank" style="font-weight: 900;">Dr. Lily Wang</a>. My research focuses on trustworthy AI for imaging data, with an emphasis on robustness, scalability, and valid uncertainty quantification. I develop statistical methods for complex functional and imaging data when observations are noisy, contaminated, partially missing, or affected by imperfect AI-generated surrogates.
+Welcome! I am a final-year PhD candidate in <a href="https://statistics.gmu.edu/" rel="external nofollow noopener" target="_blank" style="font-weight: 700;">Statistics</a> at <a href="https://www2.gmu.edu/" rel="external nofollow noopener" target="_blank" style="font-weight: 700;">George Mason University</a>, advised by <a href="https://www.dkepplinger.org/" rel="external nofollow noopener" target="_blank" style="font-weight: 700;">Dr. David Kepplinger</a> and <a href="https://sites.google.com/view/lilywang/" rel="external nofollow noopener" target="_blank" style="font-weight: 700;">Dr. Lily Wang</a>. My research focuses on trustworthy AI for imaging data, with an emphasis on robustness, scalability, and valid uncertainty quantification. I develop statistical methods for complex functional and imaging data when observations are noisy, contaminated, partially missing, or affected by imperfect AI-generated surrogates.
 </p>
 
 <div style="height:12px;font-size:1px;">&nbsp;</div>
@@ -54,29 +54,29 @@ My work spans neuroimaging and multispectral imaging, where I build methods for 
 
 <div style="height:60px;font-size:1px;">&nbsp;</div>
 
-<h2 style="color:var(--global-theme-color); font-weight: 900;">News</h2>
+<h2 style="color:var(--global-theme-color); font-weight: 800;">News</h2>
 
 <div style="height:10px;font-size:1px;">&nbsp;</div>
 
 <li>
   <p style="color:var(--global-text-color); font-size: 1.05rem;">
-    <span style="color:var(--global-theme-color); font-weight: 900;">March 2026:</span>
-    My poster, <span style="font-weight: 900;">“Synthetic Surrogate Functional Regression (SSFR) for AI-Augmented Neuroimaging”</span>, received second place in the student poster competition at the StatConnect@AI Conference at Georgetown University.
+    <span style="color:var(--global-theme-color); font-weight: 800;">March 2026:</span>
+    My poster, <span style="font-weight: 600;">“Synthetic Surrogate Functional Regression (SSFR) for AI-Augmented Neuroimaging”</span>, received second place in the student poster competition at the StatConnect@AI Conference at Georgetown University.
   </p>
 </li>
 
 <div style="height:10px;font-size:1px;">&nbsp;</div>
 
-<li><p style="color:var(--global-text-color); font-size: 1.05rem;"><span style="color:var(--global-theme-color); font-weight: 900;">March 2026:</span> I am excited to share that I accepted a postdoctoral associate offer from the Yale School of Public Health, where I will work under the supervision of <a href="https://www.yizezhao.com/" rel="external nofollow noopener" target="_blank" style="font-weight: 900;">Dr. Yize Zhao</a> starting in August. I am deeply grateful to everyone who has supported me along the way.</p></li>
+<li><p style="color:var(--global-text-color); font-size: 1.05rem;"><span style="color:var(--global-theme-color); font-weight: 800;">March 2026:</span> I am excited to share that I accepted a postdoctoral associate offer from the Yale School of Public Health, where I will work under the supervision of <a href="https://www.yizezhao.com/" rel="external nofollow noopener" target="_blank" style="font-weight: 700;">Dr. Yize Zhao</a> starting in August. I am deeply grateful to everyone who has supported me along the way.</p></li>
 
 <div style="height:10px;font-size:1px;">&nbsp;</div>
 
-<li><p style="color:var(--global-text-color); font-size: 1.05rem;"><span style="color:var(--global-theme-color); font-weight: 900;">July 2025:</span> My work, <a href="https://www3.stat.sinica.edu.tw/preprint/SS-2024-0402_Preprint.pdf" rel="external nofollow noopener" target="_blank" style="color:var(--global-theme-color); font-weight: 900;">“Robust Mean Signal Estimation and Inference for Imaging Data”</a>, with Dr. Guanqun Cao, Dr. David Kepplinger, and Dr. Lily Wang, was accepted for publication in <i>Statistica Sinica</i>.</p></li>
+<li><p style="color:var(--global-text-color); font-size: 1.05rem;"><span style="color:var(--global-theme-color); font-weight: 800;">July 2025:</span> My work, <a href="https://www3.stat.sinica.edu.tw/preprint/SS-2024-0402_Preprint.pdf" rel="external nofollow noopener" target="_blank" style="color:var(--global-theme-color); font-weight: 700;">“Robust Mean Signal Estimation and Inference for Imaging Data”</a>, with Dr. Guanqun Cao, Dr. David Kepplinger, and Dr. Lily Wang, was accepted for publication in <i>Statistica Sinica</i>.</p></li>
 
 <div style="height:10px;font-size:1px;">&nbsp;</div>
 
-<li><p style="color:var(--global-text-color); font-size: 1.05rem;"><span style="color:var(--global-theme-color); font-weight: 900;">May 2025:</span> My manuscript, <span style="font-weight: 900;">“Robust Mean Signal Estimation and Inference for Imaging Data”</span>, received the Student Paper Runner-Up Award (Theory and Methods) at the 2025 Statistical Methods in Imaging Conference.</p></li>
+<li><p style="color:var(--global-text-color); font-size: 1.05rem;"><span style="color:var(--global-theme-color); font-weight: 800;">May 2025:</span> My manuscript, <span style="font-weight: 600;">“Robust Mean Signal Estimation and Inference for Imaging Data”</span>, received the Student Paper Runner-Up Award (Theory and Methods) at the 2025 Statistical Methods in Imaging Conference.</p></li>
 
 <div style="height:10px;font-size:1px;">&nbsp;</div>
 
-<li><p style="color:var(--global-text-color); font-size: 1.05rem;"><span style="color:var(--global-theme-color); font-weight: 900;">May 2025:</span> I was honored to receive the Washington Statistical Society Outstanding Graduate Student Award from the Department of Statistics at George Mason University.</p></li>
+<li><p style="color:var(--global-text-color); font-size: 1.05rem;"><span style="color:var(--global-theme-color); font-weight: 800;">May 2025:</span> I was honored to receive the Washington Statistical Society Outstanding Graduate Student Award from the Department of Statistics at George Mason University.</p></li>
