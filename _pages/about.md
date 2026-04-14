@@ -72,6 +72,7 @@ My current work spans two connected streams. The first centers on imaging: I bui
 
 <div style="height:10px;font-size:1px;">&nbsp;</div>
 
+<ul style="margin: 0; padding-left: 1.2rem;">
 <li>
   <p style="color:var(--global-text-color); font-size: 1.05rem;">
     <span style="color:var(--global-theme-color); font-weight: 800;">March 2026:</span>
@@ -94,3 +95,4 @@ My current work spans two connected streams. The first centers on imaging: I bui
 <div style="height:10px;font-size:1px;">&nbsp;</div>
 
 <li><p style="color:var(--global-text-color); font-size: 1.05rem;"><span style="color:var(--global-theme-color); font-weight: 800;">May 2025:</span> I was honored to receive the Washington Statistical Society Outstanding Graduate Student Award from the Department of Statistics at George Mason University.</p></li>
+</ul>
