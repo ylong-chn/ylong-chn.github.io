@@ -43,14 +43,28 @@ advised by <a href="https://www.dkepplinger.org/" rel="external nofollow noopene
 <div style="height:10px;font-size:1px;">&nbsp;</div>
 
 <p style="color:var(--global-text-color); margin: auto; font-size: 1.05rem;">
-Welcome! I am a final-year PhD candidate in <a href="https://statistics.gmu.edu/" rel="external nofollow noopener" target="_blank" style="font-weight: 700;">Statistics</a> at <a href="https://www2.gmu.edu/" rel="external nofollow noopener" target="_blank" style="font-weight: 700;">George Mason University</a>, advised by <a href="https://www.dkepplinger.org/" rel="external nofollow noopener" target="_blank" style="font-weight: 700;">Dr. David Kepplinger</a> and <a href="https://sites.google.com/view/lilywang/" rel="external nofollow noopener" target="_blank" style="font-weight: 700;">Dr. Lily Wang</a>. My research focuses on trustworthy AI for imaging data, with an emphasis on robustness, scalability, and valid uncertainty quantification. I develop statistical methods for complex functional and imaging data when observations are noisy, contaminated, partially missing, or affected by imperfect AI-generated surrogates.
+Welcome! I am a final-year PhD candidate in <a href="https://statistics.gmu.edu/" rel="external nofollow noopener" target="_blank" style="font-weight: 700;">Statistics</a> at <a href="https://www2.gmu.edu/" rel="external nofollow noopener" target="_blank" style="font-weight: 700;">George Mason University</a>, advised by <a href="https://www.dkepplinger.org/" rel="external nofollow noopener" target="_blank" style="font-weight: 700;">Dr. David Kepplinger</a> and <a href="https://sites.google.com/view/lilywang/" rel="external nofollow noopener" target="_blank" style="font-weight: 700;">Dr. Lily Wang</a>. My research focuses on trustworthy AI for imaging data, with an emphasis on robustness, scalability, and valid uncertainty quantification. I develop statistically principled methods for high-dimensional data on complex and irregular domains—including images, surfaces, and multivariate time series—drawing on robust nonparametric statistics, functional data analysis, geometry-adapted smoothing, and scalable distributed computation to handle realistic challenges such as heavy-tailed noise, acquisition artifacts, missing modalities, and imperfect AI-generated surrogates.
 </p>
 
 <div style="height:12px;font-size:1px;">&nbsp;</div>
 
 <p style="color:var(--global-text-color); margin: auto; font-size: 1.05rem;">
-My work spans neuroimaging and multispectral imaging, where I build methods for robust estimation and inference on complex domains, scalable distributed learning for high-resolution images, and principled integration of AI-generated images into downstream statistical analysis. More broadly, I am interested in designing trustworthy data-analytic pipelines that are interpretable, reproducible, and scientifically reliable under real-world imperfections.
+My current work spans two connected streams. The first centers on imaging: I build distributed robust regression for brain imaging on complex spatial domains—including cortical surfaces and 3D volumetric representations—synthetic-surrogate inference frameworks that integrate AI-generated scans while guarding against surrogate misspecification, and illuminant spectrum estimation for multispectral ecological imaging. The second develops covariate-assisted learning for replicated tensor time series, focusing on dependence-driven dimension reduction to extract directions of covariate-modulated serial structure. More broadly, I am interested in designing trustworthy data-analytic pipelines that are interpretable, reproducible, and scientifically reliable across diverse high-dimensional and structurally complex settings.
 </p>
+
+<!-- <div style="height:60px;font-size:1px;">&nbsp;</div>
+
+<h2 style="color:var(--global-theme-color); font-weight: 800;">Research Interests</h2>
+
+<div style="height:10px;font-size:1px;">&nbsp;</div>
+
+<li><p style="color:var(--global-text-color); margin: auto; font-size: 1.05rem;"></p>Robust functional data analysis and nonparametric statistics</li>
+<li><p style="color:var(--global-text-color); margin: auto; font-size: 1.05rem;"></p>Scalable distributed learning for high-resolution imaging data</li>
+<li><p style="color:var(--global-text-color); margin: auto; font-size: 1.05rem;"></p>Statistical inference with AI-generated surrogates</li>
+<li><p style="color:var(--global-text-color); margin: auto; font-size: 1.05rem;"></p>Uncertainty quantification and simultaneous confidence corridors</li>
+<li><p style="color:var(--global-text-color); margin: auto; font-size: 1.05rem;"></p>Covariate-assisted analysis for replicated time series</li>
+<li><p style="color:var(--global-text-color); margin: auto; font-size: 1.05rem;"></p>Non-convex optimization for robust penalized estimation</li>
+<li><p style="color:var(--global-text-color); margin: auto; font-size: 1.05rem;"></p>Neuroimaging and multispectral imaging applications</li> -->
 
 <div style="height:60px;font-size:1px;">&nbsp;</div>
 
