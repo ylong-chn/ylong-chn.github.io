@@ -61,7 +61,7 @@ My work spans neuroimaging and multispectral imaging, where I build methods for 
 <li>
   <p style="color:var(--global-text-color); font-size: 1.05rem;">
     <span style="color:var(--global-theme-color); font-weight: 800;">March 2026:</span>
-    My poster, <span style="font-weight: 600;">“Synthetic Surrogate Functional Regression (SSFR) for AI-Augmented Neuroimaging”</span>, received second place in the student poster competition at the StatConnect@AI Conference at Georgetown University.
+    My poster, <span style="font-weight: 600; color:var(--global-text-color-light)">“Synthetic Surrogate Functional Regression (SSFR) for AI-Augmented Neuroimaging”</span>, received second place in the student poster competition at the StatConnect@AI Conference at Georgetown University.
   </p>
 </li>
 
@@ -75,7 +75,7 @@ My work spans neuroimaging and multispectral imaging, where I build methods for 
 
 <div style="height:10px;font-size:1px;">&nbsp;</div>
 
-<li><p style="color:var(--global-text-color); font-size: 1.05rem;"><span style="color:var(--global-theme-color); font-weight: 800;">May 2025:</span> My manuscript, <span style="font-weight: 600;">“Robust Mean Signal Estimation and Inference for Imaging Data”</span>, received the Student Paper Runner-Up Award (Theory and Methods) at the 2025 Statistical Methods in Imaging Conference.</p></li>
+<li><p style="color:var(--global-text-color); font-size: 1.05rem;"><span style="color:var(--global-theme-color); font-weight: 800;">May 2025:</span> My manuscript, <a href="https://www3.stat.sinica.edu.tw/preprint/SS-2024-0402_Preprint.pdf" rel="external nofollow noopener" target="_blank" style="color:var(--global-theme-color); font-weight: 700;">“Robust Mean Signal Estimation and Inference for Imaging Data”</a>, received the Student Paper Runner-Up Award (Theory and Methods) at the 2025 Statistical Methods in Imaging Conference.</p></li>
 
 <div style="height:10px;font-size:1px;">&nbsp;</div>
 

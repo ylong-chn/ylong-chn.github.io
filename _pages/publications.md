@@ -13,7 +13,7 @@ nav_order: 2
 <ol reversed>
 <div style="height:30px;font-size:1px;">&nbsp;</div>
 
-<li><p style="color:var(--global-text-color); font-size: 1.05rem;">Wang, G.<sup>&dagger;</sup>, <span style="color:var(--global-theme-color); font-weight: 600;">Long, Y.<sup>&dagger;</sup></span>, Yu, S., Gu, Z., and Wang, L. (2026+). <span style="font-weight: 600;">Distributed synthetic surrogate functional regression (D-SSFR): a scalable and robust framework for estimating spatially varying covariate effects in AI-augmented neuroimaging.</span> Submitted. (<sup>&dagger;</sup> co-first author)</p></li>
+<li><p style="color:var(--global-text-color); font-size: 1.05rem;">Wang, G.<sup>&dagger;</sup>, <span style="color:var(--global-theme-color); font-weight: 600;">Long, Y.<sup>&dagger;</sup></span>, Yu, S., Gu, Z., and Wang, L. (2026+). <span style="font-weight: 600;color:var(--global-text-color-light)">Distributed synthetic surrogate functional regression (D-SSFR): a scalable and robust framework for estimating spatially varying covariate effects in AI-augmented neuroimaging.</span> Submitted. (<sup>&dagger;</sup> co-first author)</p></li>
 
 <div style="height:10px;font-size:1px;">&nbsp;</div>
 
