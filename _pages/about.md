@@ -67,9 +67,9 @@ My current work spans two connected streams. The first centers on imaging: I bui
   <div style="height:5px;font-size:1px;">&nbsp;</div>
   <li><p style="color:var(--global-text-color); margin: auto; font-size: 1.05rem;">Distributed and scalable statistical learning</p></li>
   <div style="height:5px;font-size:1px;">&nbsp;</div>
-  <li><p style="color:var(--global-text-color); margin: auto; font-size: 1.05rem;">Statistical inference for imaging data</p></li>
+  <li><p style="color:var(--global-text-color); margin: auto; font-size: 1.05rem;">Multispectral imaging data analysis</p></li>
   <div style="height:5px;font-size:1px;">&nbsp;</div>
-  <li><p style="color:var(--global-text-color); margin: auto; font-size: 1.05rem;">Time series analysis and spectral methods</p></li>
+  <li><p style="color:var(--global-text-color); margin: auto; font-size: 1.05rem;">Multivariate time series analysis</p></li>
   <div style="height:5px;font-size:1px;">&nbsp;</div>
   <li><p style="color:var(--global-text-color); margin: auto; font-size: 1.05rem;">Non-convex optimization for robust estimation</p></li>
 </ul>
@@ -90,7 +90,7 @@ My current work spans two connected streams. The first centers on imaging: I bui
 
 <div style="height:10px;font-size:1px;">&nbsp;</div>
 
-<li><p style="color:var(--global-text-color); font-size: 1.05rem;"><span style="color:var(--global-theme-color); font-weight: 800;">March 2026:</span> I am excited to share that I accepted a postdoctoral associate offer from the Yale School of Public Health, where I will work under the supervision of <a href="https://www.yizezhao.com/" rel="external nofollow noopener" target="_blank" style="font-weight: 700;">Dr. Yize Zhao</a> starting in August. I am deeply grateful to everyone who has supported me along the way.</p></li>
+<li><p style="color:var(--global-text-color); font-size: 1.05rem;"><span style="color:var(--global-theme-color); font-weight: 800;">March 2026:</span> I am excited to share that I accepted a postdoctoral associate offer from the <a href="https://ysph.yale.edu/" rel="external nofollow noopener" target="_blank" style="font-weight: 700;">Yale School of Public Health</a>, where I will work under the supervision of <a href="https://www.yizezhao.com/" rel="external nofollow noopener" target="_blank" style="font-weight: 700;">Dr. Yize Zhao</a> starting in August. I am deeply grateful to everyone who has supported me along the way.</p></li>
 
 <div style="height:10px;font-size:1px;">&nbsp;</div>
 
