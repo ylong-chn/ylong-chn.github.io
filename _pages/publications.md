@@ -17,7 +17,10 @@ nav_order: 2
 
 <div style="height:10px;font-size:1px;">&nbsp;</div>
 
-<li><p style="color:var(--global-text-color); font-size: 1.05rem;"><span style="color:var(--global-theme-color); font-weight: 600;">Long, Y.</span>, Cao, G., Kepplinger, D., and Wang, L. (2025+). <a href="https://www3.stat.sinica.edu.tw/preprint/SS-2024-0402_Preprint.pdf" style="font-weight: 600;">Robust mean signal estimation and inference for imaging data.</a> <i>Statistica Sinica</i>, Accepted. <a href="https://github.com/ylong-chn/Robust-ImageSCC" style="font-weight: 600;">[Code]</a> </p></li>
+<li><p style="color:var(--global-text-color); font-size: 1.05rem;"><span style="color:var(--global-theme-color); font-weight: 600;">Long, Y.</span>, Cao, G., Kepplinger, D., and Wang, L. (2025+). <a href="https://www3.stat.sinica.edu.tw/preprint/SS-2024-0402_Preprint.pdf" style="font-weight: 600;">Robust mean signal estimation and inference for imaging data.</a> <i>Statistica Sinica</i>, Accepted. 
+<a href="https://www3.stat.sinica.edu.tw/preprint/SS-2024-0402_Preprint.pdf" style="font-weight: 600;">[Supp]</a>
+<a href="https://github.com/ylong-chn/Robust-ImageSCC" style="font-weight: 600;">[Code]</a> 
+</p></li>
 
 <div style="height:10px;font-size:1px;">&nbsp;</div>
 

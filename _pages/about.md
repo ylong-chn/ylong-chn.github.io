@@ -52,19 +52,27 @@ Welcome! I am a final-year PhD candidate in <a href="https://statistics.gmu.edu/
 My current work spans two connected streams. The first centers on imaging: I build distributed robust regression for brain imaging on complex spatial domains—including cortical surfaces and 3D volumetric representations—synthetic-surrogate inference frameworks that integrate AI-generated scans while guarding against surrogate misspecification, and illuminant spectrum estimation for multispectral ecological imaging. The second develops covariate-assisted learning for replicated tensor time series, focusing on dependence-driven dimension reduction to extract directions of covariate-modulated serial structure. More broadly, I am interested in designing trustworthy data-analytic pipelines that are interpretable, reproducible, and scientifically reliable across diverse high-dimensional and structurally complex settings.
 </p>
 
-<!-- <div style="height:60px;font-size:1px;">&nbsp;</div>
+<div style="height:60px;font-size:1px;">&nbsp;</div>
 
 <h2 style="color:var(--global-theme-color); font-weight: 800;">Research Interests</h2>
 
 <div style="height:10px;font-size:1px;">&nbsp;</div>
 
-<li><p style="color:var(--global-text-color); margin: auto; font-size: 1.05rem;"></p>Robust functional data analysis and nonparametric statistics</li>
-<li><p style="color:var(--global-text-color); margin: auto; font-size: 1.05rem;"></p>Scalable distributed learning for high-resolution imaging data</li>
-<li><p style="color:var(--global-text-color); margin: auto; font-size: 1.05rem;"></p>Statistical inference with AI-generated surrogates</li>
-<li><p style="color:var(--global-text-color); margin: auto; font-size: 1.05rem;"></p>Uncertainty quantification and simultaneous confidence corridors</li>
-<li><p style="color:var(--global-text-color); margin: auto; font-size: 1.05rem;"></p>Covariate-assisted analysis for replicated time series</li>
-<li><p style="color:var(--global-text-color); margin: auto; font-size: 1.05rem;"></p>Non-convex optimization for robust penalized estimation</li>
-<li><p style="color:var(--global-text-color); margin: auto; font-size: 1.05rem;"></p>Neuroimaging and multispectral imaging applications</li> -->
+<ul style="margin: 0; padding-left: 1.2rem;">
+  <li><p style="color:var(--global-text-color); margin: auto; font-size: 1.05rem;">Trustworthy AI for complex data</p></li>
+  <div style="height:5px;font-size:1px;">&nbsp;</div>
+  <li><p style="color:var(--global-text-color); margin: auto; font-size: 1.05rem;">Robust statistics and uncertainty quantification</p></li>
+  <div style="height:5px;font-size:1px;">&nbsp;</div>
+  <li><p style="color:var(--global-text-color); margin: auto; font-size: 1.05rem;">Functional data analysis on complex domains</p></li>
+  <div style="height:5px;font-size:1px;">&nbsp;</div>
+  <li><p style="color:var(--global-text-color); margin: auto; font-size: 1.05rem;">Distributed and scalable statistical learning</p></li>
+  <div style="height:5px;font-size:1px;">&nbsp;</div>
+  <li><p style="color:var(--global-text-color); margin: auto; font-size: 1.05rem;">Statistical inference for imaging data</p></li>
+  <div style="height:5px;font-size:1px;">&nbsp;</div>
+  <li><p style="color:var(--global-text-color); margin: auto; font-size: 1.05rem;">Time series analysis and spectral methods</p></li>
+  <div style="height:5px;font-size:1px;">&nbsp;</div>
+  <li><p style="color:var(--global-text-color); margin: auto; font-size: 1.05rem;">Non-convex optimization for robust estimation</p></li>
+</ul>
 
 <div style="height:60px;font-size:1px;">&nbsp;</div>
 

@@ -16,4 +16,8 @@ nav_order: 4
 
 <div style="height:20px;font-size:1px;">&nbsp;</div>
 
-<p style="color:var(--global-text-color); font-size: 1.05rem;"> <span style="font-weight: 600;color:var(--global-text-color-light)">STAT 346: Probability for Engineers,</span> Fall 2025 </p>
+<ul style="margin: 0; padding-left: 1.2rem;">
+    <li> 
+        <p style="color:var(--global-text-color); font-size: 1.05rem;"> <span style="font-weight: 600;color:var(--global-text-color-light)">STAT 346: Probability for Engineers,</span> Fall 2025 </p>
+    </li>
+</ul>
