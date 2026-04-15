@@ -159,16 +159,6 @@ nav_order: 3
 
   <li>
     <p style="color:var(--global-text-color); font-size: 1.05rem; margin-bottom: 0;">
-      <span style="font-weight: 600;color:var(--global-text-color-light)">GMU College of Engineering and Computing Whiskey and Widgets 2026,</span>
-      <i>Arlington, VA,</i> April 2026
-    </p>
-    <p style="color:var(--global-text-color); font-size: 1.05rem; margin-top: 0;">
-      Synthetic Surrogate Functional Regression (SSFR) for AI-Augmented Neuroimaging
-    </p>
-  </li>
-
-  <li>
-    <p style="color:var(--global-text-color); font-size: 1.05rem; margin-bottom: 0;">
       <span style="font-weight: 600;color:var(--global-text-color-light)">StatConnect@AI 2026,</span>
       <i>Washington, DC,</i> March 2026
     </p>
