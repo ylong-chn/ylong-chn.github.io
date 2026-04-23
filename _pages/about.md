@@ -83,6 +83,15 @@ My current work spans two connected streams. The first centers on imaging: I bui
 <ul style="margin: 0; padding-left: 1.2rem;">
 <li>
   <p style="color:var(--global-text-color); font-size: 1.05rem;">
+    <span style="color:var(--global-theme-color); font-weight: 800;">April 2026:</span>
+    I successfully defended my PhD dissertation, <span style="font-weight: 600; color:var(--global-text-color-light)">“Trustworthy AI Through Robust Functional Data Analysis and Statistical Inference for Imaging Data.”</span> I am sincerely grateful to my dissertation director, Dr. David Kepplinger, co-director, Dr. Lily Wang, and committee members, Dr. Anand Vidyashankar and Dr. Zeda Li, for their invaluable guidance and support throughout this journey. I would also like to thank my collaborators, Dr. Guanqun Cao, Dr. Zhiling Gu, Dr. Daniel Hanley, Dr. Guannan Wang, and Dr. Shan Yu, for their support and collaboration.
+  </p>
+</li>
+
+<div style="height:10px;font-size:1px;">&nbsp;</div>
+
+<li>
+  <p style="color:var(--global-text-color); font-size: 1.05rem;">
     <span style="color:var(--global-theme-color); font-weight: 800;">March 2026:</span>
     My poster, <span style="font-weight: 600; color:var(--global-text-color-light)">“Synthetic Surrogate Functional Regression (SSFR) for AI-Augmented Neuroimaging”</span>, received second place in the student poster competition at the StatConnect@AI Conference at Georgetown University.
   </p>
