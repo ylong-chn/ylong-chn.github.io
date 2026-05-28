@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Statistics PhD Candidate @ George Mason University
+subtitle: PhD in Statistical Science · George Mason University
 
 profile:
   align: left
@@ -43,13 +43,12 @@ advised by <a href="https://www.dkepplinger.org/" rel="external nofollow noopene
 <div style="height:10px;font-size:1px;">&nbsp;</div>
 
 <p style="color:var(--global-text-color); margin: auto; font-size: 1.05rem;">
-Welcome! I am a PhD candidate in <a href="https://statistics.gmu.edu/" rel="external nofollow noopener" target="_blank" style="font-weight: 700;">Statistics</a> at <a href="https://www2.gmu.edu/" rel="external nofollow noopener" target="_blank" style="font-weight: 700;">George Mason University</a>, advised by <a href="https://www.dkepplinger.org/" rel="external nofollow noopener" target="_blank" style="font-weight: 700;">Dr. David Kepplinger</a> and <a href="https://sites.google.com/view/lilywang/" rel="external nofollow noopener" target="_blank" style="font-weight: 700;">Dr. Lily Wang</a>. My research focuses on trustworthy AI, with an emphasis on robustness, scalability, and valid uncertainty quantification. I develop statistically principled methods for high-dimensional data on complex and irregular domains, including images, surfaces, and multivariate time series, drawing on robust nonparametric statistics, functional data analysis, geometry-adapted smoothing, and scalable distributed computation to handle realistic challenges such as heavy-tailed noise, acquisition artifacts, missing modalities, and imperfect AI-generated surrogates.
-</p>
+Welcome! I recently earned my PhD in <a href="https://statistics.gmu.edu/" rel="external nofollow noopener" target="_blank" style="font-weight: 700;">Statistical Science</a> from <a href="https://www2.gmu.edu/" rel="external nofollow noopener" target="_blank" style="font-weight: 700;">George Mason University</a>, where I was advised by <a href="https://www.dkepplinger.org/" rel="external nofollow noopener" target="_blank" style="font-weight: 700;">Dr. David Kepplinger</a> and <a href="https://sites.google.com/view/lilywang/" rel="external nofollow noopener" target="_blank" style="font-weight: 700;">Dr. Lily Wang</a>. In August, I will join the <a href="https://ysph.yale.edu/" rel="external nofollow noopener" target="_blank" style="font-weight: 700;">Yale School of Public Health</a> as a postdoctoral associate, working under the supervision of <a href="https://www.yizezhao.com/" rel="external nofollow noopener" target="_blank" style="font-weight: 700;">Dr. Yize Zhao</a>. </p>
 
 <div style="height:12px;font-size:1px;">&nbsp;</div>
 
 <p style="color:var(--global-text-color); margin: auto; font-size: 1.05rem;">
-My current work spans two connected streams. The first centers on imaging: I build distributed robust regression for brain imaging on complex spatial domains, synthetic-surrogate inference frameworks that integrate AI-generated scans while guarding against surrogate misspecification, and illuminant spectrum inference for multispectral ecological imaging. The second develops covariate-assisted learning for replicated tensor time series, focusing on dependence-driven dimension reduction to extract directions of covariate-modulated serial structure. More broadly, I am interested in developing trustworthy data-analytic pipelines that are interpretable, reproducible, and scientifically reliable across high-dimensional and structurally complex settings.
+My research centers on trustworthy AI, with an emphasis on robustness, scalability, and valid uncertainty quantification for data observed on complex, irregular domains — including biomedical images, surfaces, and multispectral imaging. To confront realistic obstacles such as heavy-tailed noise, acquisition artifacts, missing modalities, and imperfect AI-generated surrogates, I develop statistically principled methods that draw on robust nonparametric statistics, functional data analysis, geometry-aware smoothing, synthetic-surrogate inference, and scalable distributed computation. My broader goal is to build data-analytic pipelines that are interpretable, reproducible, and scientifically reliable across high-dimensional and structurally complex settings.
 </p>
 
 <div style="height:60px;font-size:1px;">&nbsp;</div>
