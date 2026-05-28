@@ -25,7 +25,7 @@ nav_order: 3
       <i>Arlington, VA,</i> June 2026
     </p>
     <p style="color:var(--global-text-color); font-size: 1.05rem; margin-top: 0;">
-      Synthetic Surrogate Image-on-Scalar Regression for Robust Brain Imaging Analysis
+      Synthetic Surrogate Functional Regression (SSFR) for AI-Augmented Neuroimaging
     </p>
   </li>
 </ul>

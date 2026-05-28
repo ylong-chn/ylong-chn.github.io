@@ -83,6 +83,17 @@ My current work spans two connected streams. The first centers on imaging: I bui
 <ul style="margin: 0; padding-left: 1.2rem;">
 <li>
   <p style="color:var(--global-text-color); font-size: 1.05rem;">
+    <span style="color:var(--global-theme-color); font-weight: 800;">June 2026:</span>
+    I am delighted to share that our manuscript, 
+    <span style="font-weight: 600; color:var(--global-text-color-light)">“Distributed Synthetic Surrogate Functional Regression (D-SSFR): A Scalable and Robust Framework for Estimating Spatially Varying Covariate Effects in AI-Augmented Neuroimaging”</span>, 
+    joint with Drs. Guannan Wang, Shan Yu, Zhiling Gu, and Lily Wang, received a Student Paper Honorable Mention at the 2026 ICSA Applied Statistics Symposium!
+  </p>
+</li>
+
+<div style="height:10px;font-size:1px;">&nbsp;</div>
+
+<li>
+  <p style="color:var(--global-text-color); font-size: 1.05rem;">
     <span style="color:var(--global-theme-color); font-weight: 800;">April 2026:</span>
     I successfully defended my PhD dissertation, <span style="font-weight: 600; color:var(--global-text-color-light)">“Trustworthy AI Through Robust Functional Data Analysis and Statistical Inference for Imaging Data.”</span> I am sincerely grateful to my dissertation director, Dr. David Kepplinger, co-director, Dr. Lily Wang, and committee members, Dr. Anand Vidyashankar and Dr. Zeda Li, for their invaluable guidance and support throughout this journey. I would also like to thank my collaborators, Dr. Guanqun Cao, Dr. Zhiling Gu, Dr. Daniel Hanley, Dr. Guannan Wang, and Dr. Shan Yu, for their support and collaboration.
   </p>
