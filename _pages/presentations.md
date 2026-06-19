@@ -21,6 +21,15 @@ nav_order: 3
 <ul style="padding-left: 1.2rem; margin-bottom: 0;">
   <li>
     <p style="color:var(--global-text-color); font-size: 1.05rem; margin-bottom: 0;">
+      <span style="font-weight: 600;color:var(--global-text-color-light)">CFE-CMStatistics 2026,</span>
+      <i>Virtual/Berlin, Germany,</i> December 2026
+    </p>
+    <p style="color:var(--global-text-color); font-size: 1.05rem; margin-top: 0;">
+      Robust Estimation and Fast Robust Bootstrap Inference for Spatially Varying Coefficient Models
+    </p>
+  </li>
+  <li>
+    <p style="color:var(--global-text-color); font-size: 1.05rem; margin-bottom: 0;">
       <span style="font-weight: 600;color:var(--global-text-color-light)">ICSA Applied Statistics Symposium 2026,</span>
       <i>Arlington, VA,</i> June 2026
     </p>
