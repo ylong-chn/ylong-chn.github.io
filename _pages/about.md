@@ -84,7 +84,7 @@ My research centers on trustworthy AI, with an emphasis on robustness, scalabili
   <p style="color:var(--global-text-color); font-size: 1.05rem;">
     <span style="color:var(--global-theme-color); font-weight: 800;">June 2026:</span>
     I am delighted to share that our manuscript, 
-    <span style="font-weight: 600; color:var(--global-text-color-light)">“Distributed Synthetic Surrogate Functional Regression (D-SSFR): A Scalable and Robust Framework for Estimating Spatially Varying Covariate Effects in AI-Augmented Neuroimaging”</span>, 
+    <span style="font-weight: 600; color:var(--global-text-color-light)">“Distributed Synthetic Surrogate Functional Regression (D-SSFR): A Scalable and Robust Framework for Estimating Spatially Varying Covariate Effects in AI-Augmented Neuroimaging,”</span> 
     joint with Drs. Guannan Wang, Shan Yu, Zhiling Gu, and Lily Wang, received a Student Paper Honorable Mention at the 2026 ICSA Applied Statistics Symposium!
   </p>
 </li>
@@ -103,7 +103,7 @@ My research centers on trustworthy AI, with an emphasis on robustness, scalabili
 <li>
   <p style="color:var(--global-text-color); font-size: 1.05rem;">
     <span style="color:var(--global-theme-color); font-weight: 800;">March 2026:</span>
-    My poster, <span style="font-weight: 600; color:var(--global-text-color-light)">“Synthetic Surrogate Functional Regression (SSFR) for AI-Augmented Neuroimaging”</span>, received second place in the student poster competition at the StatConnect@AI Conference at Georgetown University.
+    My poster, <span style="font-weight: 600; color:var(--global-text-color-light)">“Synthetic Surrogate Functional Regression (SSFR) for AI-Augmented Neuroimaging,”</span> received second place in the student poster competition at the StatConnect@AI Conference at Georgetown University.
   </p>
 </li>
 
@@ -113,11 +113,11 @@ My research centers on trustworthy AI, with an emphasis on robustness, scalabili
 
 <div style="height:10px;font-size:1px;">&nbsp;</div>
 
-<li><p style="color:var(--global-text-color); font-size: 1.05rem;"><span style="color:var(--global-theme-color); font-weight: 800;">July 2025:</span> My work, <a href="https://www3.stat.sinica.edu.tw/preprint/SS-2024-0402_Preprint.pdf" rel="external nofollow noopener" target="_blank" style="color:var(--global-theme-color); font-weight: 700;">“Robust Mean Signal Estimation and Inference for Imaging Data”</a>, with Dr. Guanqun Cao, Dr. David Kepplinger, and Dr. Lily Wang, was accepted for publication in <i>Statistica Sinica</i>.</p></li>
+<li><p style="color:var(--global-text-color); font-size: 1.05rem;"><span style="color:var(--global-theme-color); font-weight: 800;">July 2025:</span> My work, <a href="https://www3.stat.sinica.edu.tw/preprint/SS-2024-0402_Preprint.pdf" rel="external nofollow noopener" target="_blank" style="color:var(--global-theme-color); font-weight: 700;">“Robust Mean Signal Estimation and Inference for Imaging Data,”</a> with Dr. Guanqun Cao, Dr. David Kepplinger, and Dr. Lily Wang, was accepted for publication in <i>Statistica Sinica</i>.</p></li>
 
 <div style="height:10px;font-size:1px;">&nbsp;</div>
 
-<li><p style="color:var(--global-text-color); font-size: 1.05rem;"><span style="color:var(--global-theme-color); font-weight: 800;">May 2025:</span> My manuscript, <a href="https://www3.stat.sinica.edu.tw/preprint/SS-2024-0402_Preprint.pdf" rel="external nofollow noopener" target="_blank" style="color:var(--global-theme-color); font-weight: 700;">“Robust Mean Signal Estimation and Inference for Imaging Data”</a>, received the Student Paper Runner-Up Award (Theory and Methods) at the 2025 Statistical Methods in Imaging Conference.</p></li>
+<li><p style="color:var(--global-text-color); font-size: 1.05rem;"><span style="color:var(--global-theme-color); font-weight: 800;">May 2025:</span> My manuscript, <a href="https://www3.stat.sinica.edu.tw/preprint/SS-2024-0402_Preprint.pdf" rel="external nofollow noopener" target="_blank" style="color:var(--global-theme-color); font-weight: 700;">“Robust Mean Signal Estimation and Inference for Imaging Data,”</a> received the Student Paper Runner-Up Award (Theory and Methods) at the 2025 Statistical Methods in Imaging Conference.</p></li>
 
 <div style="height:10px;font-size:1px;">&nbsp;</div>
 
