@@ -43,7 +43,13 @@ advised by <a href="https://www.dkepplinger.org/" rel="external nofollow noopene
 <div style="height:10px;font-size:1px;">&nbsp;</div>
 
 <p style="color:var(--global-text-color); margin: auto; font-size: 1.05rem;">
-Welcome! I recently earned my PhD in <a href="https://statistics.gmu.edu/" rel="external nofollow noopener" target="_blank" style="font-weight: 700;">Statistical Science</a> from <a href="https://www2.gmu.edu/" rel="external nofollow noopener" target="_blank" style="font-weight: 700;">George Mason University</a>, where I was advised by <a href="https://www.dkepplinger.org/" rel="external nofollow noopener" target="_blank" style="font-weight: 700;">Dr. David Kepplinger</a> and <a href="https://sites.google.com/view/lilywang/" rel="external nofollow noopener" target="_blank" style="font-weight: 700;">Dr. Lily Wang</a>. In August, I will join the <a href="https://ysph.yale.edu/" rel="external nofollow noopener" target="_blank" style="font-weight: 700;">Yale School of Public Health</a> as a postdoctoral associate, working under the supervision of <a href="https://www.yizezhao.com/" rel="external nofollow noopener" target="_blank" style="font-weight: 700;">Dr. Yize Zhao</a>. </p>
+Welcome! I am currently a postdoctoral associate at the 
+<a href="https://ysph.yale.edu/" rel="external nofollow noopener" target="_blank" style="font-weight: 700;">Yale School of Public Health</a>, 
+working with <a href="https://www.yizezhao.com/" rel="external nofollow noopener" target="_blank" style="font-weight: 700;">Dr. Yize Zhao</a>. 
+I received my PhD in <a href="https://statistics.gmu.edu/" rel="external nofollow noopener" target="_blank" style="font-weight: 700;">Statistical Science</a> 
+from <a href="https://www2.gmu.edu/" rel="external nofollow noopener" target="_blank" style="font-weight: 700;">George Mason University</a>, 
+where I was fortunate to be advised by <a href="https://www.dkepplinger.org/" rel="external nofollow noopener" target="_blank" style="font-weight: 700;">Dr. David Kepplinger</a> and <a href="https://sites.google.com/view/lilywang/" rel="external nofollow noopener" target="_blank" style="font-weight: 700;">Dr. Lily Wang</a>.
+</p>
 
 <div style="height:12px;font-size:1px;">&nbsp;</div>
 
@@ -80,6 +86,15 @@ My research centers on trustworthy AI, with an emphasis on robustness, scalabili
 <div style="height:10px;font-size:1px;">&nbsp;</div>
 
 <ul style="margin: 0; padding-left: 1.2rem;">
+<li>
+  <p style="color:var(--global-text-color); font-size: 1.05rem;">
+    <span style="color:var(--global-theme-color); font-weight: 800;">August 2026:</span>
+    I am excited to announce that I have started my postdoctoral appointment at the Yale School of Public Health!
+  </p>
+</li>
+
+<div style="height:10px;font-size:1px;">&nbsp;</div>
+
 <li>
   <p style="color:var(--global-text-color); font-size: 1.05rem;">
     <span style="color:var(--global-theme-color); font-weight: 800;">June 2026:</span>
