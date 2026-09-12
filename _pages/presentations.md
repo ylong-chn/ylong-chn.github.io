@@ -19,6 +19,7 @@ nav_order: 3
 <div style="height:10px;font-size:1px;">&nbsp;</div>
 
 <ul style="padding-left: 1.2rem; margin-bottom: 0;">
+
   <li>
     <p style="color:var(--global-text-color); font-size: 1.05rem; margin-bottom: 0;">
       <span style="font-weight: 600;color:var(--global-text-color-light)">CFE-CMStatistics 2026,</span>
@@ -28,6 +29,27 @@ nav_order: 3
       Robust Estimation and Fast Robust Bootstrap Inference for Spatially Varying Coefficient Models
     </p>
   </li>
+
+  <li>
+    <p style="color:var(--global-text-color); font-size: 1.05rem; margin-bottom: 0;">
+      <span style="font-weight: 600;color:var(--global-text-color-light)">Statistical Learning and Data Science (SLDS) 2026,</span>
+      <i>New York, NY,</i> November 2026
+    </p>
+    <p style="color:var(--global-text-color); font-size: 1.05rem; margin-top: 0;">
+      Synthetic Surrogate Functional Regression (SSFR) Framework for Surrogate-Augmented Neuroimaging
+    </p>
+  </li>
+
+  <li>
+    <p style="color:var(--global-text-color); font-size: 1.05rem; margin-bottom: 0;">
+      <span style="font-weight: 600;color:var(--global-text-color-light)">CUNY-Baruch College,</span>
+      <i>New York, NY,</i> September 2026
+    </p>
+    <p style="color:var(--global-text-color); font-size: 1.05rem; margin-top: 0;">
+      Synthetic Surrogate Functional Regression (SSFR) Framework for Surrogate-Augmented Neuroimaging
+    </p>
+  </li>
+
   <li>
     <p style="color:var(--global-text-color); font-size: 1.05rem; margin-bottom: 0;">
       <span style="font-weight: 600;color:var(--global-text-color-light)">ICSA Applied Statistics Symposium 2026,</span>
