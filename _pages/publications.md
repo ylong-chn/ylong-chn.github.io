@@ -10,12 +10,32 @@ nav_order: 2
 <h2 style="color:var(--global-theme-color); font-weight: 800;">Publications</h2>
 <!-- <p style="color:var(--global-text-color)">* denotes equal contribution</p> -->
 
-<ol reversed>
 <div style="height:30px;font-size:1px;">&nbsp;</div>
 
-<li><p style="color:var(--global-text-color); font-size: 1.05rem;">Wang, G.<sup>&dagger;</sup>, <span style="color:var(--global-theme-color); font-weight: 600;">Long, Y.<sup>&dagger;</sup>,</span> Yu, S., Gu, Z., and Wang, L. (2026+). <span style="font-weight: 600;color:var(--global-text-color-light)">Distributed synthetic surrogate functional regression (D-SSFR): a scalable and robust framework for estimating spatially varying covariate effects in AI-augmented neuroimaging.</span> <i>R&R at Annals of Applied Statistics</i>. (<sup>&dagger;</sup> co-first author)</p></li>
+<h4 style="color:var(--global-theme-color); font-weight: 700;">Preprints</h4>
 
-<div style="height:10px;font-size:1px;">&nbsp;</div>
+<div style="height:20px;font-size:1px;">&nbsp;</div>
+
+<ol reversed>
+<!-- <div style="height:30px;font-size:1px;">&nbsp;</div> -->
+
+<li><p style="color:var(--global-text-color); font-size: 1.05rem;">Wang, G.<sup>&dagger;</sup>, <span style="color:var(--global-theme-color); font-weight: 600;">Long, Y.<sup>&dagger;</sup>,</span> Yu, S., Gu, Z., and Wang, L. (2026+). <span style="font-weight: 600;color:var(--global-text-color-light)">Synthetic surrogate functional regression (SSFR): A robust framework for estimating spatially varying covariate effects in surrogate-augmented neuroimaging.</span> 
+<!-- <i>R&R at Annals of Applied Statistics</i>.  -->
+(<sup>&dagger;</sup> co-first author)
+<a href="https://doi.org/10.48550/arXiv.2611.27791" style="font-weight: 600;">[arXiv]</a> 
+</p></li>
+
+</ol>
+
+<div style="height:20px;font-size:1px;">&nbsp;</div>
+
+<h4 style="color:var(--global-theme-color); font-weight: 700;">Refereed Journal Papers</h4>
+
+<div style="height:20px;font-size:1px;">&nbsp;</div>
+
+<!-- <div style="height:10px;font-size:1px;">&nbsp;</div> -->
+
+<ol reversed>
 
 <li><p style="color:var(--global-text-color); font-size: 1.05rem;"><span style="color:var(--global-theme-color); font-weight: 600;">Long, Y.,</span> Cao, G., Kepplinger, D., and Wang, L. (2026+). <a href="https://www3.stat.sinica.edu.tw/preprint/SS-2024-0402_Preprint.pdf" style="font-weight: 600;">Robust mean signal estimation and inference for imaging data.</a> <i>Statistica Sinica</i>, Forthcoming. 
 <a href="https://www3.stat.sinica.edu.tw/preprint/supp/2024-0402_supp.pdf" style="font-weight: 600;">[Supp]</a>
